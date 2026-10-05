@@ -4,9 +4,9 @@ const TelegramBot = require("node-telegram-bot-api");
 const mongoose = require("mongoose");
 const axios = require("axios");
 
-const BOT_TOKEN = process.env.BOT_TOKEN;
-const MONGODB_URI = process.env.MONGODB_URI;
-const ADMIN_ID = String(process.env.ADMIN_ID || "");
+const BOT_TOKEN = process.8647594767:AAHvyJvhKdQJfHsJJY1qLvOONjDnMMfsFgM
+const MONGODB_URI = process.mongodb://rpkworldmuvies123_db_user:<kpZHGp61Oz2YUC8R>@ac-yfyds8r-shard-00-00.abfeopi.mongodb.net:27017,ac-yfyds8r-shard-00-01.abfeopi.mongodb.net:27017,ac-yfyds8r-shard-00-02.abfeopi.mongodb.net:27017/?ssl=true&replicaSet=atlas-6cie8u-shard-0&authSource=admin&appName=Cluster0
+const ADMIN_ID = String(process.@DesignerPlusDev || "");
 
 if (!BOT_TOKEN || !MONGODB_URI) {
   console.error("Missing BOT_TOKEN or MONGODB_URI in .env");
